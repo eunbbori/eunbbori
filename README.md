@@ -3,7 +3,7 @@
 <div align="center">
 <!--
 ![zoo1](https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg  ) -->
-<img src="https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg"  width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg"  width="300" height="300"/>
 
   
  ####  ✏️ **Tech Stack** ✏️   
