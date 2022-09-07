@@ -1,8 +1,10 @@
                                                                
 
 <div align="center">
+<!--
+![zoo1](https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg  ) -->
+<img src="https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg"  width="400" height="400"/>
 
-![zoo1](https://user-images.githubusercontent.com/112812483/188831627-b5d6a046-31e8-435d-aacf-691adb396ff0.jpg))
   
  ####  ✏️ **Tech Stack** ✏️   
  ##### Techs that I've used at least once
@@ -15,7 +17,7 @@
 
 ####  😸 **Me** 😸 
 <a href="https://velog.io/@eunsilk" target="_blank"><img src="https://img.shields.io/badge/-TECH BLOG-00CCBC?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@eunsilk"></a>
-<a href="https://www.instagram.com/eunsilllk/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunsilllk"></a>
+<a href="https://www.instagram.com/eunsilllk/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunsilllk"></a>  <!-- 새창으로 열기 나중에  -->
 
 
 
