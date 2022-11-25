@@ -17,7 +17,8 @@
 
 ####  😸 **Me** 😸 
 <a href="https://velog.io/@eunsilk" target="_blank"><img src="https://img.shields.io/badge/-TECH BLOG-00CCBC?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@eunsilk"></a>
-<a href="https://www.instagram.com/eunsilllk/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunsilllk"></a>  <!-- 새창으로 열기 나중에  -->
+ <!-- 
+<a href="https://www.instagram.com/eunsilllk/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eunsilllk"></a>   새창으로 열기 나중에  -->
 
 
 
