@@ -10,8 +10,7 @@
  ##### Techs that I've used at least once
   
   
- <img src="https://img.shields.io/badge/-%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <br> <img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/-TYPESCRIPT-FF4785?style=for-the-badge&logo=TypeScript&logoColor=white"> --> 
+ <img src="https://img.shields.io/badge/-%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <br> <img src="https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-TYPESCRIPT-FF4785?style=for-the-badge&logo=TypeScript&logoColor=white">
 <!--  <img src="https://img.shields.io/badge/-ORACEL-FF8135?style=for-the-badge&logo=Oracle&logoColor=white">  --> 
  <!--  <img src="https://img.shields.io/badge/-DELPHI-5B4638?style=for-the-badge&logo=Delphi&logoColor=white">-->  
  <!--   <img src="https://img.shields.io/badge/-MONGODB-02B78F?style=for-the-badge&logo=MongoDB&logoColor=white"> --> 
